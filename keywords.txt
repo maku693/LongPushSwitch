@@ -1,0 +1,2 @@
+LongPushSwitch	KEYWORD1
+check	KEYWORD2
